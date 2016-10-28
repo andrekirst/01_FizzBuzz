@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingDojo_01_FizzBuzz", "CodingDojo_01_FizzBuzz\CodingDojo_01_FizzBuzz.csproj", "{1BF7D0F7-0FA1-4CD9-B10F-EB3BBED28FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingDojo_01_FizzBuzz.Tests", "CodingDojo_01_FizzBuzz.Tests\CodingDojo_01_FizzBuzz.Tests.csproj", "{405A0C23-B7EC-4A16-BD5F-08D7F8348381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF7D0F7-0FA1-4CD9-B10F-EB3BBED28FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF7D0F7-0FA1-4CD9-B10F-EB3BBED28FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF7D0F7-0FA1-4CD9-B10F-EB3BBED28FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF7D0F7-0FA1-4CD9-B10F-EB3BBED28FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405A0C23-B7EC-4A16-BD5F-08D7F8348381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405A0C23-B7EC-4A16-BD5F-08D7F8348381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405A0C23-B7EC-4A16-BD5F-08D7F8348381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405A0C23-B7EC-4A16-BD5F-08D7F8348381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
